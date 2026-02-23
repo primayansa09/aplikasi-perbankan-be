@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE47A72E-B658-AB38-2D6D-698E4AA1AEDE}|API_BSS\\API_BSS.csproj|c:\\wanda\\project\\bss\\backend_bss\\api_bss\\api_bss\\controllers\\dto\\transactionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE47A72E-B658-AB38-2D6D-698E4AA1AEDE}|API_BSS\\API_BSS.csproj|solutionrelative:api_bss\\controllers\\dto\\transactionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE47A72E-B658-AB38-2D6D-698E4AA1AEDE}|API_BSS\\API_BSS.csproj|c:\\wanda\\project\\bss\\backend_bss\\api_bss\\api_bss\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE47A72E-B658-AB38-2D6D-698E4AA1AEDE}|API_BSS\\API_BSS.csproj|solutionrelative:api_bss\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE47A72E-B658-AB38-2D6D-698E4AA1AEDE}|API_BSS\\API_BSS.csproj|c:\\wanda\\project\\bss\\backend_bss\\api_bss\\api_bss\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE47A72E-B658-AB38-2D6D-698E4AA1AEDE}|API_BSS\\API_BSS.csproj|solutionrelative:api_bss\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE47A72E-B658-AB38-2D6D-698E4AA1AEDE}|API_BSS\\API_BSS.csproj|c:\\wanda\\project\\bss\\backend_bss\\api_bss\\api_bss\\controllers\\dto\\addaccountresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE47A72E-B658-AB38-2D6D-698E4AA1AEDE}|API_BSS\\API_BSS.csproj|solutionrelative:api_bss\\controllers\\dto\\addaccountresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionResultDTO.cs",
+              "DocumentMoniker": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\API_BSS\\Controllers\\DTO\\TransactionResultDTO.cs",
+              "RelativeDocumentMoniker": "API_BSS\\Controllers\\DTO\\TransactionResultDTO.cs",
+              "ToolTip": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\API_BSS\\Controllers\\DTO\\TransactionResultDTO.cs",
+              "RelativeToolTip": "API_BSS\\Controllers\\DTO\\TransactionResultDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:31:46.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAccountResultDTO.cs",
+              "DocumentMoniker": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\API_BSS\\Controllers\\DTO\\AddAccountResultDTO.cs",
+              "RelativeDocumentMoniker": "API_BSS\\Controllers\\DTO\\AddAccountResultDTO.cs",
+              "ToolTip": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\API_BSS\\Controllers\\DTO\\AddAccountResultDTO.cs",
+              "RelativeToolTip": "API_BSS\\Controllers\\DTO\\AddAccountResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:24:57.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\API_BSS\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "API_BSS\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\API_BSS\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "API_BSS\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:42:41.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\API_BSS\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "API_BSS\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\wanda\\project\\BSS\\BackEnd_BSS\\API_BSS\\API_BSS\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "API_BSS\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAmwIwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:12:34.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
